@@ -1,0 +1,41 @@
+0,Gothic,To Kill A Mockingbird,Harper Lee,12/02/2015,0
+1,Fantasy,The Lord Of The Rings,J.R.R Tolkien,23/06/2017,voep
+2,Sci-Fi,Watchmen,Alan Moore,03/11/2012,mvna
+3,Sci-Fi,Mortal Engines,Philip Reeve,28/10/2019,dska
+4,Romance,Romeo and Juliet,William Shakespeare,16/07/2006,mbna
+5,Novella,Of Mice and Men,John Steinbeck,08/12/2005,mcna
+6,Sci-Fi,A Darkling Plain,Philip Reeve,23/03/2020,vmaw
+7,Horror,Lord Loss,Darren Shan,20/01/2013,weoq
+8,Horror,Death's Shadow,Darren Shan,10/07/2018,vmqw
+9,Fantasy,Harry Potter and the Philosopher's Stone,J.K Rowling,19/04/2004,pomw
+10,Classics,The Great Gatsby,F.Scott Fitzgerald,25/07/2009,itjd
+11,Fantasy,A Game of Thrones,George R.R. Martin,13/05/2016,miek
+12,Educational,Mathematics for Computer Science,Albert R. Meyer,05/07/2007,mxna
+13,Educational,Clean Code,Robert Cecil Martin,29/06/2010,lkre
+14,Romance,Pride and Prejudice,Jane Austin,01/03/2005,mqls
+15,Romance,Jane Eyre,Charlotte Brontë,23/09/2009,cnoe
+16,Educational,Logic in Computer Science,Michael Huth,19/06/2018,dmqw
+17,Novella,A Christmas Carol,Charles Dickens,02/03/2007,0
+18,Gothic,Dracula,Bram Stocker,01/02/2002,djsn
+19,Gothic,Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,25/07/2007,kawl
+20,Gothic,Northanger Abbey,Jane Austen,30/01/2005,chnz
+21,Novella,Metamorphosis,Franz Kafka,28/09/2016,dkan
+22,Fantasy,Earthlings,Sayaka Murata,12/06/2021,lsme
+23,Horror,Uzamaki Volume 1,Junji Ito,13/04/2018,lekw
+24,Classics,Frankentstein,Mary Shelley,08/10/2005,qmqw
+25,Classics,The Call of the Wild,Jack London,18/06/2008,ueuw
+26,Horror,Tomie Volume 1,Junji Ito,10/05/2019,lwoa
+27,Novella,Animal Farm,George Orwell,04/08/2013,zxnw
+28,Sci-Fi,Akira Volume 3,Katsuhiro Otomo,21/08/2017,xbvd
+29,Sci-Fi,Gantz Volume 21,Hiroya Oku,19/07/2017,gjro
+30,Romance,Nisekoi Volume 16,Naoshi Komi,23/09/2018,malw
+31,Romance,Nisekoi Volume 17,Naoshi Komi,23/09/2018,wncu
+32,Romance,Nisekoi Volume 18,Naoshi Komi,23/09/2018,ytei
+33,Fantasy,Beserk Volume 35,Kentaro Miura,28/05/2019,0
+34,Fantasy,Beserk Volume 36,Kentaro Miura,28/05/2019,fhas
+35,Fantasy,Beserk Volume 37,Kentaro Miura,28/05/2019,epwl
+36,Classics,Lord of the Flies,William Golding,05/04/2008,wiqj
+37,Classics,The Little Prince,Antoine de Saint-Exupéry,10/11/2010,pwoe
+38,Horror,Ajin Volume 12,Gamon Sakurai,29/02/2020,vmse
+39,Horror,Ajin Volume 13,Gamon Sakurai,29/02/2020,csnw
+40,Horror,Ajin Volume 14,Gamon Sakurai,29/02/2020,coml
